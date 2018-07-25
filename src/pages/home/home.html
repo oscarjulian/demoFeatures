@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-item>
+    <ion-label>Auth with finger?</ion-label>
+    <ion-toggle (ionChange)="saveState()" [(ngModel)]="finger"></ion-toggle>
+  </ion-item>
+  <!--
+  <div item-width="100%" style="border: solid 1px gray"></div>
+  <ion-item>
+    <ion-input [(ngModel)]="inputtext" placeholder="Type your value"></ion-input>
+  </ion-item>
+  <button ion-button (click)="saveData()">Save</button>
+  <button ion-button (click)="loadData()">Load</button>
+  -->
+</ion-content>

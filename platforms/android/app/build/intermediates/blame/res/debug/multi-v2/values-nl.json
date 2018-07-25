@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/juliancampino/Documents/BBTA/demoFeatures/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "/Users/juliancampino/Documents/BBTA/demoFeatures/platforms/android/app/src/main/res/values-nl/fpauth-strings.xml",
+                    "from": {
+                        "startLines": "3,1,5,6,7,4,8,2,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "141,16,276,370,429,230,528,72,597,758",
+                        "endColumns": "88,55,93,58,98,45,68,68,160,95",
+                        "endOffsets": "225,67,365,424,523,271,592,136,753,849"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,200,294,353,452,498,567,636,797",
+                        "endColumns": "88,55,93,58,98,45,68,68,160,95",
+                        "endOffsets": "139,195,289,348,447,493,562,631,792,888"
+                    }
+                }
+            ]
+        }
+    ]
+}
